@@ -156,7 +156,7 @@ python create_test_db.py
 
 **Запуск основного приложения:**
 
-python main_app.py
+python GUI_3.py
 
 ### Использование
 **Пошаговая инструкция:**
